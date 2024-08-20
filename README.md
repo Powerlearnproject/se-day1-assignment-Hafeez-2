@@ -85,6 +85,7 @@ Challenges include :
   - Changing Requirements
   - Tight Deadlines
   - Technical Debt
+
 Strategies for overcoming challenges include effective communication, agile methodologies, prioritization of tasks, and regular reassessment of project goals and timelines.
     
 
